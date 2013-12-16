@@ -86,30 +86,30 @@ for doc in docs:
 
 dump_content("top_buzzwords", docs)
 
-# # Make dictionary for edge processing
-# for_edges = {}
-# for doc in docs:
-# 	l = []
-# 	for name in docs[doc]:
-# 		l.append(name[0])
-# 	for_edges[doc]=l
+# Make dictionary for edge processing
+for_edges = {}
+for doc in docs:
+	l = []
+	for name in docs[doc]:
+		l.append(name[0])
+	for_edges[doc]=l
 
-# # make dictionary of edges between top two speeches for each buzzword
-# edge_dict = {}
-# for doc in for_edges:
-# 	tuples = [(x,y) for x in for_edges[doc] for y in for_edges[doc] if x != y]
-# 	for entry in tuples:
-# 	    if (entry[1], entry[0]) in tuples:
-# 	        tuples.remove((entry[1],entry[0]))
-# 	edge_dict[doc] = tuples
+# make dictionary of edges between top two speeches for each buzzword
+edge_dict = {}
+for doc in for_edges:
+	tuples = [(x,y) for x in for_edges[doc] for y in for_edges[doc] if x != y]
+	for entry in tuples:
+	    if (entry[1], entry[0]) in tuples:
+	        tuples.remove((entry[1],entry[0]))
+	edge_dict[doc] = tuples
 
-# # Make the graph
-# G=nx.Graph()
-# for doc in edge_dict:
-# 	G.add_edges_from(edge_dict[doc])
+# Make the graph
+G=nx.Graph()
+for doc in edge_dict:
+	G.add_edges_from(edge_dict[doc])
 
-# # export graph to gexf so it can be read into Gephi
-# nx.write_gexf(G, 'speeches.gexf')
+# export graph to gexf so it can be read into Gephi
+nx.write_gexf(G, 'speeches.gexf')
 
 
 
