@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1917-Wilson.txt" label="1917-Wilson.txt" />
+      <node id="1837-VanBuren.txt" label="1837-VanBuren.txt" />
+      <node id="1861-Lincoln.txt" label="1861-Lincoln.txt" />
+      <node id="1849-Taylor.txt" label="1849-Taylor.txt" />
+      <node id="1845-Polk.txt" label="1845-Polk.txt" />
+      <node id="1889-Harrison.txt" label="1889-Harrison.txt" />
+      <node id="1905-Roosevelt.txt" label="1905-Roosevelt.txt" />
+      <node id="1881-Garfield.txt" label="1881-Garfield.txt" />
+      <node id="1869-Grant.txt" label="1869-Grant.txt" />
+      <node id="1909-Taft.txt" label="1909-Taft.txt" />
+      <node id="1937-Roosevelt.txt" label="1937-Roosevelt.txt" />
+      <node id="1921-Harding.txt" label="1921-Harding.txt" />
+      <node id="1929-Hoover.txt" label="1929-Hoover.txt" />
+      <node id="1941-Roosevelt.txt" label="1941-Roosevelt.txt" />
+      <node id="2009-Obama.txt" label="2009-Obama.txt" />
+      <node id="1945-Roosevelt.txt" label="1945-Roosevelt.txt" />
+      <node id="1933-Roosevelt.txt" label="1933-Roosevelt.txt" />
+      <node id="1789-Washington.txt" label="1789-Washington.txt" />
+      <node id="1913-Wilson.txt" label="1913-Wilson.txt" />
+      <node id="1817-Monroe.txt" label="1817-Monroe.txt" />
+      <node id="2005-Bush.txt" label="2005-Bush.txt" />
+      <node id="1993-Clinton.txt" label="1993-Clinton.txt" />
+      <node id="1973-Nixon.txt" label="1973-Nixon.txt" />
+      <node id="1841-Harrison.txt" label="1841-Harrison.txt" />
+      <node id="1901-McKinley.txt" label="1901-McKinley.txt" />
+      <node id="1965-Johnson.txt" label="1965-Johnson.txt" />
+      <node id="1801-Jefferson.txt" label="1801-Jefferson.txt" />
+      <node id="1821-Monroe.txt" label="1821-Monroe.txt" />
+      <node id="1809-Madison.txt" label="1809-Madison.txt" />
+      <node id="1825-Adams.txt" label="1825-Adams.txt" />
+      <node id="1969-Nixon.txt" label="1969-Nixon.txt" />
+      <node id="1857-Buchanan.txt" label="1857-Buchanan.txt" />
+      <node id="1953-Eisenhower.txt" label="1953-Eisenhower.txt" />
+      <node id="1981-Reagan.txt" label="1981-Reagan.txt" />
+      <node id="1989-Bush.txt" label="1989-Bush.txt" />
+      <node id="1833-Jackson.txt" label="1833-Jackson.txt" />
+      <node id="1813-Madison.txt" label="1813-Madison.txt" />
+      <node id="1873-Grant.txt" label="1873-Grant.txt" />
+      <node id="1949-Truman.txt" label="1949-Truman.txt" />
+      <node id="1797-Adams.txt" label="1797-Adams.txt" />
+      <node id="1897-McKinley.txt" label="1897-McKinley.txt" />
+      <node id="1997-Clinton.txt" label="1997-Clinton.txt" />
+      <node id="1793-Washington.txt" label="1793-Washington.txt" />
+      <node id="1977-Carter.txt" label="1977-Carter.txt" />
+      <node id="2001-Bush.txt" label="2001-Bush.txt" />
+      <node id="1893-Cleveland.txt" label="1893-Cleveland.txt" />
+      <node id="1865-Lincoln.txt" label="1865-Lincoln.txt" />
+      <node id="1957-Eisenhower.txt" label="1957-Eisenhower.txt" />
+      <node id="1805-Jefferson.txt" label="1805-Jefferson.txt" />
+      <node id="1877-Hayes.txt" label="1877-Hayes.txt" />
+      <node id="1853-Pierce.txt" label="1853-Pierce.txt" />
+      <node id="1961-Kennedy.txt" label="1961-Kennedy.txt" />
+      <node id="1885-Cleveland.txt" label="1885-Cleveland.txt" />
+      <node id="1925-Coolidge.txt" label="1925-Coolidge.txt" />
+      <node id="1829-Jackson.txt" label="1829-Jackson.txt" />
+      <node id="1985-Reagan.txt" label="1985-Reagan.txt" />
+    </nodes>
+    <edges>
+      <edge id="0" source="1917-Wilson.txt" target="1841-Harrison.txt" />
+      <edge id="1" source="1917-Wilson.txt" target="1997-Clinton.txt" />
+      <edge id="2" source="1917-Wilson.txt" target="1881-Garfield.txt" />
+      <edge id="3" source="1917-Wilson.txt" target="1789-Washington.txt" />
+      <edge id="4" source="1917-Wilson.txt" target="1913-Wilson.txt" />
+      <edge id="5" source="1917-Wilson.txt" target="1929-Hoover.txt" />
+      <edge id="6" source="1917-Wilson.txt" target="1833-Jackson.txt" />
+      <edge id="7" source="1917-Wilson.txt" target="1909-Taft.txt" />
+      <edge id="8" source="1917-Wilson.txt" target="1925-Coolidge.txt" />
+      <edge id="9" source="1837-VanBuren.txt" target="1861-Lincoln.txt" />
+      <edge id="10" source="1837-VanBuren.txt" target="1801-Jefferson.txt" />
+      <edge id="11" source="1837-VanBuren.txt" target="1845-Polk.txt" />
+      <edge id="12" source="1837-VanBuren.txt" target="1889-Harrison.txt" />
+      <edge id="13" source="1837-VanBuren.txt" target="1929-Hoover.txt" />
+      <edge id="14" source="1837-VanBuren.txt" target="1909-Taft.txt" />
+      <edge id="15" source="1837-VanBuren.txt" target="2005-Bush.txt" />
+      <edge id="16" source="1837-VanBuren.txt" target="1941-Roosevelt.txt" />
+      <edge id="17" source="1837-VanBuren.txt" target="1793-Washington.txt" />
+      <edge id="18" source="1837-VanBuren.txt" target="1913-Wilson.txt" />
+      <edge id="19" source="1837-VanBuren.txt" target="1817-Monroe.txt" />
+      <edge id="20" source="1837-VanBuren.txt" target="1993-Clinton.txt" />
+      <edge id="21" source="1837-VanBuren.txt" target="1973-Nixon.txt" />
+      <edge id="22" source="1837-VanBuren.txt" target="1841-Harrison.txt" />
+      <edge id="23" source="1837-VanBuren.txt" target="1849-Taylor.txt" />
+      <edge id="24" source="1837-VanBuren.txt" target="1821-Monroe.txt" />
+      <edge id="25" source="1837-VanBuren.txt" target="1809-Madison.txt" />
+      <edge id="26" source="1837-VanBuren.txt" target="1825-Adams.txt" />
+      <edge id="27" source="1837-VanBuren.txt" target="1857-Buchanan.txt" />
+      <edge id="28" source="1837-VanBuren.txt" target="1981-Reagan.txt" />
+      <edge id="29" source="1837-VanBuren.txt" target="1989-Bush.txt" />
+      <edge id="30" source="1837-VanBuren.txt" target="1833-Jackson.txt" />
+      <edge id="31" source="1837-VanBuren.txt" target="1869-Grant.txt" />
+      <edge id="32" source="1837-VanBuren.txt" target="1949-Truman.txt" />
+      <edge id="33" source="1837-VanBuren.txt" target="1897-McKinley.txt" />
+      <edge id="34" source="1837-VanBuren.txt" target="1997-Clinton.txt" />
+      <edge id="35" source="1837-VanBuren.txt" target="2009-Obama.txt" />
+      <edge id="36" source="1837-VanBuren.txt" target="1957-Eisenhower.txt" />
+      <edge id="37" source="1837-VanBuren.txt" target="1805-Jefferson.txt" />
+      <edge id="38" source="1837-VanBuren.txt" target="1853-Pierce.txt" />
+      <edge id="39" source="1837-VanBuren.txt" target="1961-Kennedy.txt" />
+      <edge id="40" source="1837-VanBuren.txt" target="1885-Cleveland.txt" />
+      <edge id="41" source="1861-Lincoln.txt" target="1849-Taylor.txt" />
+      <edge id="42" source="1861-Lincoln.txt" target="1845-Polk.txt" />
+      <edge id="43" source="1861-Lincoln.txt" target="1889-Harrison.txt" />
+      <edge id="44" source="1861-Lincoln.txt" target="1881-Garfield.txt" />
+      <edge id="45" source="1861-Lincoln.txt" target="1909-Taft.txt" />
+      <edge id="46" source="1861-Lincoln.txt" target="2005-Bush.txt" />
+      <edge id="47" source="1861-Lincoln.txt" target="2009-Obama.txt" />
+      <edge id="48" source="1861-Lincoln.txt" target="1945-Roosevelt.txt" />
+      <edge id="49" source="1861-Lincoln.txt" target="1933-Roosevelt.txt" />
+      <edge id="50" source="1861-Lincoln.txt" target="1993-Clinton.txt" />
+      <edge id="51" source="1861-Lincoln.txt" target="1841-Harrison.txt" />
+      <edge id="52" source="1861-Lincoln.txt" target="1821-Monroe.txt" />
+      <edge id="53" source="1861-Lincoln.txt" target="1809-Madison.txt" />
+      <edge id="54" source="1861-Lincoln.txt" target="1969-Nixon.txt" />
+      <edge id="55" source="1861-Lincoln.txt" target="1833-Jackson.txt" />
+      <edge id="56" source="1861-Lincoln.txt" target="1897-McKinley.txt" />
+      <edge id="57" source="1861-Lincoln.txt" target="1873-Grant.txt" />
+      <edge id="58" source="1861-Lincoln.txt" target="2001-Bush.txt" />
+      <edge id="59" source="1861-Lincoln.txt" target="1865-Lincoln.txt" />
+      <edge id="60" source="1861-Lincoln.txt" target="1877-Hayes.txt" />
+      <edge id="61" source="1861-Lincoln.txt" target="1853-Pierce.txt" />
+      <edge id="62" source="1861-Lincoln.txt" target="1961-Kennedy.txt" />
+      <edge id="63" source="1861-Lincoln.txt" target="1925-Coolidge.txt" />
+      <edge id="64" source="1849-Taylor.txt" target="1929-Hoover.txt" />
+      <edge id="65" source="1849-Taylor.txt" target="2001-Bush.txt" />
+      <edge id="66" source="1849-Taylor.txt" target="1825-Adams.txt" />
+      <edge id="67" source="1849-Taylor.txt" target="1845-Polk.txt" />
+      <edge id="68" source="1849-Taylor.txt" target="1889-Harrison.txt" />
+      <edge id="69" source="1849-Taylor.txt" target="1841-Harrison.txt" />
+      <edge id="70" source="1849-Taylor.txt" target="1909-Taft.txt" />
+      <edge id="71" source="1849-Taylor.txt" target="1829-Jackson.txt" />
+      <edge id="72" source="1845-Polk.txt" target="1929-Hoover.txt" />
+      <edge id="73" source="1845-Polk.txt" target="1889-Harrison.txt" />
+      <edge id="74" source="1845-Polk.txt" target="1881-Garfield.txt" />
+      <edge id="75" source="1845-Polk.txt" target="1813-Madison.txt" />
+      <edge id="76" source="1845-Polk.txt" target="1909-Taft.txt" />
+      <edge id="77" source="1845-Polk.txt" target="1937-Roosevelt.txt" />
+      <edge id="78" source="1845-Polk.txt" target="2005-Bush.txt" />
+      <edge id="79" source="1845-Polk.txt" target="1793-Washington.txt" />
+      <edge id="80" source="1845-Polk.txt" target="1945-Roosevelt.txt" />
+      <edge id="81" source="1845-Polk.txt" target="1933-Roosevelt.txt" />
+      <edge id="82" source="1845-Polk.txt" target="1789-Washington.txt" />
+      <edge id="83" source="1845-Polk.txt" target="1817-Monroe.txt" />
+      <edge id="84" source="1845-Polk.txt" target="1973-Nixon.txt" />
+      <edge id="85" source="1845-Polk.txt" target="1841-Harrison.txt" />
+      <edge id="86" source="1845-Polk.txt" target="1801-Jefferson.txt" />
+      <edge id="87" source="1845-Polk.txt" target="1821-Monroe.txt" />
+      <edge id="88" source="1845-Polk.txt" target="1857-Buchanan.txt" />
+      <edge id="89" source="1845-Polk.txt" target="1953-Eisenhower.txt" />
+      <edge id="90" source="1845-Polk.txt" target="1989-Bush.txt" />
+      <edge id="91" source="1845-Polk.txt" target="1833-Jackson.txt" />
+      <edge id="92" source="1845-Polk.txt" target="1949-Truman.txt" />
+      <edge id="93" source="1845-Polk.txt" target="1897-McKinley.txt" />
+      <edge id="94" source="1845-Polk.txt" target="2001-Bush.txt" />
+      <edge id="95" source="1845-Polk.txt" target="1805-Jefferson.txt" />
+      <edge id="96" source="1845-Polk.txt" target="1877-Hayes.txt" />
+      <edge id="97" source="1845-Polk.txt" target="1853-Pierce.txt" />
+      <edge id="98" source="1845-Polk.txt" target="1925-Coolidge.txt" />
+      <edge id="99" source="1845-Polk.txt" target="1829-Jackson.txt" />
+      <edge id="100" source="1889-Harrison.txt" target="1881-Garfield.txt" />
+      <edge id="101" source="1889-Harrison.txt" target="1929-Hoover.txt" />
+      <edge id="102" source="1889-Harrison.txt" target="1909-Taft.txt" />
+      <edge id="103" source="1889-Harrison.txt" target="1921-Harding.txt" />
+      <edge id="104" source="1889-Harrison.txt" target="1941-Roosevelt.txt" />
+      <edge id="105" source="1889-Harrison.txt" target="1789-Washington.txt" />
+      <edge id="106" source="1889-Harrison.txt" target="1913-Wilson.txt" />
+      <edge id="107" source="1889-Harrison.txt" target="1817-Monroe.txt" />
+      <edge id="108" source="1889-Harrison.txt" target="1973-Nixon.txt" />
+      <edge id="109" source="1889-Harrison.txt" target="1841-Harrison.txt" />
+      <edge id="110" source="1889-Harrison.txt" target="1965-Johnson.txt" />
+      <edge id="111" source="1889-Harrison.txt" target="1801-Jefferson.txt" />
+      <edge id="112" source="1889-Harrison.txt" target="1821-Monroe.txt" />
+      <edge id="113" source="1889-Harrison.txt" target="1809-Madison.txt" />
+      <edge id="114" source="1889-Harrison.txt" target="1857-Buchanan.txt" />
+      <edge id="115" source="1889-Harrison.txt" target="1953-Eisenhower.txt" />
+      <edge id="116" source="1889-Harrison.txt" target="1901-McKinley.txt" />
+      <edge id="117" source="1889-Harrison.txt" target="1949-Truman.txt" />
+      <edge id="118" source="1889-Harrison.txt" target="1797-Adams.txt" />
+      <edge id="119" source="1889-Harrison.txt" target="1897-McKinley.txt" />
+      <edge id="120" source="1889-Harrison.txt" target="1997-Clinton.txt" />
+      <edge id="121" source="1889-Harrison.txt" target="2001-Bush.txt" />
+      <edge id="122" source="1889-Harrison.txt" target="1893-Cleveland.txt" />
+      <edge id="123" source="1889-Harrison.txt" target="1865-Lincoln.txt" />
+      <edge id="124" source="1889-Harrison.txt" target="1805-Jefferson.txt" />
+      <edge id="125" source="1889-Harrison.txt" target="1877-Hayes.txt" />
+      <edge id="126" source="1889-Harrison.txt" target="1853-Pierce.txt" />
+      <edge id="127" source="1905-Roosevelt.txt" target="1965-Johnson.txt" />
+      <edge id="128" source="1905-Roosevelt.txt" target="1941-Roosevelt.txt" />
+      <edge id="129" source="1905-Roosevelt.txt" target="1881-Garfield.txt" />
+      <edge id="130" source="1905-Roosevelt.txt" target="1945-Roosevelt.txt" />
+      <edge id="131" source="1905-Roosevelt.txt" target="1933-Roosevelt.txt" />
+      <edge id="132" source="1905-Roosevelt.txt" target="2001-Bush.txt" />
+      <edge id="133" source="1905-Roosevelt.txt" target="1825-Adams.txt" />
+      <edge id="134" source="1905-Roosevelt.txt" target="1817-Monroe.txt" />
+      <edge id="135" source="1905-Roosevelt.txt" target="1841-Harrison.txt" />
+      <edge id="136" source="1905-Roosevelt.txt" target="1937-Roosevelt.txt" />
+      <edge id="137" source="1905-Roosevelt.txt" target="1921-Harding.txt" />
+      <edge id="138" source="1881-Garfield.txt" target="1929-Hoover.txt" />
+      <edge id="139" source="1881-Garfield.txt" target="1833-Jackson.txt" />
+      <edge id="140" source="1881-Garfield.txt" target="1813-Madison.txt" />
+      <edge id="141" source="1881-Garfield.txt" target="1909-Taft.txt" />
+      <edge id="142" source="1881-Garfield.txt" target="1937-Roosevelt.txt" />
+      <edge id="143" source="1881-Garfield.txt" target="2005-Bush.txt" />
+      <edge id="144" source="1881-Garfield.txt" target="1941-Roosevelt.txt" />
+      <edge id="145" source="1881-Garfield.txt" target="1793-Washington.txt" />
+      <edge id="146" source="1881-Garfield.txt" target="1945-Roosevelt.txt" />
+      <edge id="147" source="1881-Garfield.txt" target="1933-Roosevelt.txt" />
+      <edge id="148" source="1881-Garfield.txt" target="1913-Wilson.txt" />
+      <edge id="149" source="1881-Garfield.txt" target="1921-Harding.txt" />
+      <edge id="150" source="1881-Garfield.txt" target="1841-Harrison.txt" />
+      <edge id="151" source="1881-Garfield.txt" target="1965-Johnson.txt" />
+      <edge id="152" source="1881-Garfield.txt" target="1821-Monroe.txt" />
+      <edge id="153" source="1881-Garfield.txt" target="1857-Buchanan.txt" />
+      <edge id="154" source="1881-Garfield.txt" target="1953-Eisenhower.txt" />
+      <edge id="155" source="1881-Garfield.txt" target="1989-Bush.txt" />
+      <edge id="156" source="1881-Garfield.txt" target="1901-McKinley.txt" />
+      <edge id="157" source="1881-Garfield.txt" target="1869-Grant.txt" />
+      <edge id="158" source="1881-Garfield.txt" target="1949-Truman.txt" />
+      <edge id="159" source="1881-Garfield.txt" target="1797-Adams.txt" />
+      <edge id="160" source="1881-Garfield.txt" target="1997-Clinton.txt" />
+      <edge id="161" source="1881-Garfield.txt" target="1873-Grant.txt" />
+      <edge id="162" source="1881-Garfield.txt" target="1977-Carter.txt" />
+      <edge id="163" source="1881-Garfield.txt" target="1893-Cleveland.txt" />
+      <edge id="164" source="1881-Garfield.txt" target="1865-Lincoln.txt" />
+      <edge id="165" source="1881-Garfield.txt" target="1957-Eisenhower.txt" />
+      <edge id="166" source="1881-Garfield.txt" target="1877-Hayes.txt" />
+      <edge id="167" source="1881-Garfield.txt" target="1853-Pierce.txt" />
+      <edge id="168" source="1881-Garfield.txt" target="1961-Kennedy.txt" />
+      <edge id="169" source="1869-Grant.txt" target="1897-McKinley.txt" />
+      <edge id="170" source="1869-Grant.txt" target="1821-Monroe.txt" />
+      <edge id="171" source="1869-Grant.txt" target="1929-Hoover.txt" />
+      <edge id="172" source="1869-Grant.txt" target="1909-Taft.txt" />
+      <edge id="173" source="1869-Grant.txt" target="1925-Coolidge.txt" />
+      <edge id="174" source="1909-Taft.txt" target="1929-Hoover.txt" />
+      <edge id="175" source="1909-Taft.txt" target="1813-Madison.txt" />
+      <edge id="176" source="1909-Taft.txt" target="1921-Harding.txt" />
+      <edge id="177" source="1909-Taft.txt" target="2009-Obama.txt" />
+      <edge id="178" source="1909-Taft.txt" target="1945-Roosevelt.txt" />
+      <edge id="179" source="1909-Taft.txt" target="1933-Roosevelt.txt" />
+      <edge id="180" source="1909-Taft.txt" target="1913-Wilson.txt" />
+      <edge id="181" source="1909-Taft.txt" target="1817-Monroe.txt" />
+      <edge id="182" source="1909-Taft.txt" target="2005-Bush.txt" />
+      <edge id="183" source="1909-Taft.txt" target="1841-Harrison.txt" />
+      <edge id="184" source="1909-Taft.txt" target="1821-Monroe.txt" />
+      <edge id="185" source="1909-Taft.txt" target="1809-Madison.txt" />
+      <edge id="186" source="1909-Taft.txt" target="1825-Adams.txt" />
+      <edge id="187" source="1909-Taft.txt" target="1969-Nixon.txt" />
+      <edge id="188" source="1909-Taft.txt" target="1953-Eisenhower.txt" />
+      <edge id="189" source="1909-Taft.txt" target="1981-Reagan.txt" />
+      <edge id="190" source="1909-Taft.txt" target="1989-Bush.txt" />
+      <edge id="191" source="1909-Taft.txt" target="1997-Clinton.txt" />
+      <edge id="192" source="1909-Taft.txt" target="1949-Truman.txt" />
+      <edge id="193" source="1909-Taft.txt" target="1897-McKinley.txt" />
+      <edge id="194" source="1909-Taft.txt" target="1873-Grant.txt" />
+      <edge id="195" source="1909-Taft.txt" target="1793-Washington.txt" />
+      <edge id="196" source="1909-Taft.txt" target="1977-Carter.txt" />
+      <edge id="197" source="1909-Taft.txt" target="1893-Cleveland.txt" />
+      <edge id="198" source="1909-Taft.txt" target="1805-Jefferson.txt" />
+      <edge id="199" source="1909-Taft.txt" target="1877-Hayes.txt" />
+      <edge id="200" source="1909-Taft.txt" target="1853-Pierce.txt" />
+      <edge id="201" source="1909-Taft.txt" target="1925-Coolidge.txt" />
+      <edge id="202" source="1909-Taft.txt" target="1829-Jackson.txt" />
+      <edge id="203" source="1937-Roosevelt.txt" target="1965-Johnson.txt" />
+      <edge id="204" source="1937-Roosevelt.txt" target="1929-Hoover.txt" />
+      <edge id="205" source="1937-Roosevelt.txt" target="1953-Eisenhower.txt" />
+      <edge id="206" source="1937-Roosevelt.txt" target="1913-Wilson.txt" />
+      <edge id="207" source="1937-Roosevelt.txt" target="1969-Nixon.txt" />
+      <edge id="208" source="1937-Roosevelt.txt" target="1857-Buchanan.txt" />
+      <edge id="209" source="1937-Roosevelt.txt" target="1973-Nixon.txt" />
+      <edge id="210" source="1937-Roosevelt.txt" target="1989-Bush.txt" />
+      <edge id="211" source="1937-Roosevelt.txt" target="1949-Truman.txt" />
+      <edge id="212" source="1937-Roosevelt.txt" target="1921-Harding.txt" />
+      <edge id="213" source="1937-Roosevelt.txt" target="1985-Reagan.txt" />
+      <edge id="214" source="1921-Harding.txt" target="1929-Hoover.txt" />
+      <edge id="215" source="1921-Harding.txt" target="2005-Bush.txt" />
+      <edge id="216" source="1921-Harding.txt" target="2009-Obama.txt" />
+      <edge id="217" source="1921-Harding.txt" target="1933-Roosevelt.txt" />
+      <edge id="218" source="1921-Harding.txt" target="1817-Monroe.txt" />
+      <edge id="219" source="1921-Harding.txt" target="1993-Clinton.txt" />
+      <edge id="220" source="1921-Harding.txt" target="1973-Nixon.txt" />
+      <edge id="221" source="1921-Harding.txt" target="1841-Harrison.txt" />
+      <edge id="222" source="1921-Harding.txt" target="1825-Adams.txt" />
+      <edge id="223" source="1921-Harding.txt" target="1953-Eisenhower.txt" />
+      <edge id="224" source="1921-Harding.txt" target="1989-Bush.txt" />
+      <edge id="225" source="1921-Harding.txt" target="1833-Jackson.txt" />
+      <edge id="226" source="1921-Harding.txt" target="1949-Truman.txt" />
+      <edge id="227" source="1921-Harding.txt" target="1897-McKinley.txt" />
+      <edge id="228" source="1921-Harding.txt" target="2001-Bush.txt" />
+      <edge id="229" source="1921-Harding.txt" target="1957-Eisenhower.txt" />
+      <edge id="230" source="1921-Harding.txt" target="1805-Jefferson.txt" />
+      <edge id="231" source="1921-Harding.txt" target="1961-Kennedy.txt" />
+      <edge id="232" source="1921-Harding.txt" target="1985-Reagan.txt" />
+      <edge id="233" source="1929-Hoover.txt" target="1941-Roosevelt.txt" />
+      <edge id="234" source="1929-Hoover.txt" target="1933-Roosevelt.txt" />
+      <edge id="235" source="1929-Hoover.txt" target="1913-Wilson.txt" />
+      <edge id="236" source="1929-Hoover.txt" target="1817-Monroe.txt" />
+      <edge id="237" source="1929-Hoover.txt" target="1973-Nixon.txt" />
+      <edge id="238" source="1929-Hoover.txt" target="1841-Harrison.txt" />
+      <edge id="239" source="1929-Hoover.txt" target="1801-Jefferson.txt" />
+      <edge id="240" source="1929-Hoover.txt" target="1953-Eisenhower.txt" />
+      <edge id="241" source="1929-Hoover.txt" target="1981-Reagan.txt" />
+      <edge id="242" source="1929-Hoover.txt" target="1833-Jackson.txt" />
+      <edge id="243" source="1929-Hoover.txt" target="1949-Truman.txt" />
+      <edge id="244" source="1929-Hoover.txt" target="1997-Clinton.txt" />
+      <edge id="245" source="1929-Hoover.txt" target="2001-Bush.txt" />
+      <edge id="246" source="1929-Hoover.txt" target="1893-Cleveland.txt" />
+      <edge id="247" source="1929-Hoover.txt" target="1853-Pierce.txt" />
+      <edge id="248" source="1929-Hoover.txt" target="1961-Kennedy.txt" />
+      <edge id="249" source="1941-Roosevelt.txt" target="1821-Monroe.txt" />
+      <edge id="250" source="1941-Roosevelt.txt" target="1913-Wilson.txt" />
+      <edge id="251" source="1941-Roosevelt.txt" target="1969-Nixon.txt" />
+      <edge id="252" source="1941-Roosevelt.txt" target="1841-Harrison.txt" />
+      <edge id="253" source="1941-Roosevelt.txt" target="1949-Truman.txt" />
+      <edge id="254" source="1941-Roosevelt.txt" target="2005-Bush.txt" />
+      <edge id="255" source="1941-Roosevelt.txt" target="1797-Adams.txt" />
+      <edge id="256" source="2009-Obama.txt" target="1997-Clinton.txt" />
+      <edge id="257" source="2009-Obama.txt" target="1853-Pierce.txt" />
+      <edge id="258" source="2009-Obama.txt" target="1969-Nixon.txt" />
+      <edge id="259" source="2009-Obama.txt" target="1817-Monroe.txt" />
+      <edge id="260" source="2009-Obama.txt" target="1993-Clinton.txt" />
+      <edge id="261" source="2009-Obama.txt" target="1953-Eisenhower.txt" />
+      <edge id="262" source="2009-Obama.txt" target="1989-Bush.txt" />
+      <edge id="263" source="2009-Obama.txt" target="1841-Harrison.txt" />
+      <edge id="264" source="1945-Roosevelt.txt" target="1965-Johnson.txt" />
+      <edge id="265" source="1945-Roosevelt.txt" target="1841-Harrison.txt" />
+      <edge id="266" source="1945-Roosevelt.txt" target="1977-Carter.txt" />
+      <edge id="267" source="1945-Roosevelt.txt" target="1933-Roosevelt.txt" />
+      <edge id="268" source="1945-Roosevelt.txt" target="1969-Nixon.txt" />
+      <edge id="269" source="1945-Roosevelt.txt" target="1953-Eisenhower.txt" />
+      <edge id="270" source="1945-Roosevelt.txt" target="1981-Reagan.txt" />
+      <edge id="271" source="1945-Roosevelt.txt" target="1949-Truman.txt" />
+      <edge id="272" source="1933-Roosevelt.txt" target="2005-Bush.txt" />
+      <edge id="273" source="1933-Roosevelt.txt" target="1997-Clinton.txt" />
+      <edge id="274" source="1933-Roosevelt.txt" target="1817-Monroe.txt" />
+      <edge id="275" source="1933-Roosevelt.txt" target="1893-Cleveland.txt" />
+      <edge id="276" source="1933-Roosevelt.txt" target="1885-Cleveland.txt" />
+      <edge id="277" source="1933-Roosevelt.txt" target="1969-Nixon.txt" />
+      <edge id="278" source="1933-Roosevelt.txt" target="1957-Eisenhower.txt" />
+      <edge id="279" source="1933-Roosevelt.txt" target="1805-Jefferson.txt" />
+      <edge id="280" source="1933-Roosevelt.txt" target="1961-Kennedy.txt" />
+      <edge id="281" source="1933-Roosevelt.txt" target="1841-Harrison.txt" />
+      <edge id="282" source="1933-Roosevelt.txt" target="1813-Madison.txt" />
+      <edge id="283" source="1933-Roosevelt.txt" target="1873-Grant.txt" />
+      <edge id="284" source="1933-Roosevelt.txt" target="1949-Truman.txt" />
+      <edge id="285" source="1789-Washington.txt" target="1965-Johnson.txt" />
+      <edge id="286" source="1789-Washington.txt" target="1841-Harrison.txt" />
+      <edge id="287" source="1789-Washington.txt" target="1809-Madison.txt" />
+      <edge id="288" source="1789-Washington.txt" target="1893-Cleveland.txt" />
+      <edge id="289" source="1789-Washington.txt" target="1961-Kennedy.txt" />
+      <edge id="290" source="1789-Washington.txt" target="1989-Bush.txt" />
+      <edge id="291" source="1789-Washington.txt" target="1833-Jackson.txt" />
+      <edge id="292" source="1913-Wilson.txt" target="1997-Clinton.txt" />
+      <edge id="293" source="1913-Wilson.txt" target="1993-Clinton.txt" />
+      <edge id="294" source="1913-Wilson.txt" target="1989-Bush.txt" />
+      <edge id="295" source="1913-Wilson.txt" target="1925-Coolidge.txt" />
+      <edge id="296" source="1817-Monroe.txt" target="1993-Clinton.txt" />
+      <edge id="297" source="1817-Monroe.txt" target="1897-McKinley.txt" />
+      <edge id="298" source="1817-Monroe.txt" target="1821-Monroe.txt" />
+      <edge id="299" source="1817-Monroe.txt" target="1977-Carter.txt" />
+      <edge id="300" source="1817-Monroe.txt" target="1893-Cleveland.txt" />
+      <edge id="301" source="1817-Monroe.txt" target="1857-Buchanan.txt" />
+      <edge id="302" source="1817-Monroe.txt" target="1841-Harrison.txt" />
+      <edge id="303" source="1817-Monroe.txt" target="1901-McKinley.txt" />
+      <edge id="304" source="1817-Monroe.txt" target="1925-Coolidge.txt" />
+      <edge id="305" source="1817-Monroe.txt" target="1949-Truman.txt" />
+      <edge id="306" source="1817-Monroe.txt" target="1829-Jackson.txt" />
+      <edge id="307" source="2005-Bush.txt" target="1865-Lincoln.txt" />
+      <edge id="308" source="2005-Bush.txt" target="1969-Nixon.txt" />
+      <edge id="309" source="2005-Bush.txt" target="1857-Buchanan.txt" />
+      <edge id="310" source="2005-Bush.txt" target="1973-Nixon.txt" />
+      <edge id="311" source="2005-Bush.txt" target="1961-Kennedy.txt" />
+      <edge id="312" source="2005-Bush.txt" target="1989-Bush.txt" />
+      <edge id="313" source="2005-Bush.txt" target="1841-Harrison.txt" />
+      <edge id="314" source="2005-Bush.txt" target="1813-Madison.txt" />
+      <edge id="315" source="2005-Bush.txt" target="1797-Adams.txt" />
+      <edge id="316" source="2005-Bush.txt" target="1985-Reagan.txt" />
+      <edge id="317" source="1993-Clinton.txt" target="1965-Johnson.txt" />
+      <edge id="318" source="1993-Clinton.txt" target="1997-Clinton.txt" />
+      <edge id="319" source="1993-Clinton.txt" target="1969-Nixon.txt" />
+      <edge id="320" source="1993-Clinton.txt" target="1877-Hayes.txt" />
+      <edge id="321" source="1993-Clinton.txt" target="1973-Nixon.txt" />
+      <edge id="322" source="1993-Clinton.txt" target="1981-Reagan.txt" />
+      <edge id="323" source="1993-Clinton.txt" target="1989-Bush.txt" />
+      <edge id="324" source="1993-Clinton.txt" target="1841-Harrison.txt" />
+      <edge id="325" source="1993-Clinton.txt" target="1925-Coolidge.txt" />
+      <edge id="326" source="1993-Clinton.txt" target="1949-Truman.txt" />
+      <edge id="327" source="1993-Clinton.txt" target="1797-Adams.txt" />
+      <edge id="328" source="1973-Nixon.txt" target="1841-Harrison.txt" />
+      <edge id="329" source="1973-Nixon.txt" target="1821-Monroe.txt" />
+      <edge id="330" source="1973-Nixon.txt" target="1969-Nixon.txt" />
+      <edge id="331" source="1973-Nixon.txt" target="1953-Eisenhower.txt" />
+      <edge id="332" source="1973-Nixon.txt" target="1981-Reagan.txt" />
+      <edge id="333" source="1973-Nixon.txt" target="1901-McKinley.txt" />
+      <edge id="334" source="1973-Nixon.txt" target="1949-Truman.txt" />
+      <edge id="335" source="1973-Nixon.txt" target="1897-McKinley.txt" />
+      <edge id="336" source="1973-Nixon.txt" target="1997-Clinton.txt" />
+      <edge id="337" source="1973-Nixon.txt" target="2001-Bush.txt" />
+      <edge id="338" source="1973-Nixon.txt" target="1961-Kennedy.txt" />
+      <edge id="339" source="1973-Nixon.txt" target="1885-Cleveland.txt" />
+      <edge id="340" source="1973-Nixon.txt" target="1829-Jackson.txt" />
+      <edge id="341" source="1973-Nixon.txt" target="1985-Reagan.txt" />
+      <edge id="342" source="1841-Harrison.txt" target="1801-Jefferson.txt" />
+      <edge id="343" source="1841-Harrison.txt" target="1965-Johnson.txt" />
+      <edge id="344" source="1841-Harrison.txt" target="1821-Monroe.txt" />
+      <edge id="345" source="1841-Harrison.txt" target="1809-Madison.txt" />
+      <edge id="346" source="1841-Harrison.txt" target="1825-Adams.txt" />
+      <edge id="347" source="1841-Harrison.txt" target="1857-Buchanan.txt" />
+      <edge id="348" source="1841-Harrison.txt" target="1981-Reagan.txt" />
+      <edge id="349" source="1841-Harrison.txt" target="1989-Bush.txt" />
+      <edge id="350" source="1841-Harrison.txt" target="1797-Adams.txt" />
+      <edge id="351" source="1841-Harrison.txt" target="1897-McKinley.txt" />
+      <edge id="352" source="1841-Harrison.txt" target="1805-Jefferson.txt" />
+      <edge id="353" source="1841-Harrison.txt" target="1877-Hayes.txt" />
+      <edge id="354" source="1841-Harrison.txt" target="1925-Coolidge.txt" />
+      <edge id="355" source="1841-Harrison.txt" target="1985-Reagan.txt" />
+      <edge id="356" source="1901-McKinley.txt" target="1821-Monroe.txt" />
+      <edge id="357" source="1901-McKinley.txt" target="1853-Pierce.txt" />
+      <edge id="358" source="1901-McKinley.txt" target="1925-Coolidge.txt" />
+      <edge id="359" source="1901-McKinley.txt" target="1985-Reagan.txt" />
+      <edge id="360" source="1965-Johnson.txt" target="1997-Clinton.txt" />
+      <edge id="361" source="1965-Johnson.txt" target="1969-Nixon.txt" />
+      <edge id="362" source="1965-Johnson.txt" target="1925-Coolidge.txt" />
+      <edge id="363" source="1965-Johnson.txt" target="1985-Reagan.txt" />
+      <edge id="364" source="1801-Jefferson.txt" target="1997-Clinton.txt" />
+      <edge id="365" source="1821-Monroe.txt" target="1813-Madison.txt" />
+      <edge id="366" source="1821-Monroe.txt" target="1793-Washington.txt" />
+      <edge id="367" source="1821-Monroe.txt" target="1809-Madison.txt" />
+      <edge id="368" source="1821-Monroe.txt" target="1825-Adams.txt" />
+      <edge id="369" source="1821-Monroe.txt" target="1969-Nixon.txt" />
+      <edge id="370" source="1821-Monroe.txt" target="1857-Buchanan.txt" />
+      <edge id="371" source="1821-Monroe.txt" target="1989-Bush.txt" />
+      <edge id="372" source="1821-Monroe.txt" target="1949-Truman.txt" />
+      <edge id="373" source="1821-Monroe.txt" target="1897-McKinley.txt" />
+      <edge id="374" source="1821-Monroe.txt" target="1997-Clinton.txt" />
+      <edge id="375" source="1821-Monroe.txt" target="1865-Lincoln.txt" />
+      <edge id="376" source="1821-Monroe.txt" target="1877-Hayes.txt" />
+      <edge id="377" source="1821-Monroe.txt" target="1853-Pierce.txt" />
+      <edge id="378" source="1821-Monroe.txt" target="1925-Coolidge.txt" />
+      <edge id="379" source="1809-Madison.txt" target="1825-Adams.txt" />
+      <edge id="380" source="1809-Madison.txt" target="1797-Adams.txt" />
+      <edge id="381" source="1825-Adams.txt" target="1969-Nixon.txt" />
+      <edge id="382" source="1825-Adams.txt" target="1853-Pierce.txt" />
+      <edge id="383" source="1825-Adams.txt" target="1833-Jackson.txt" />
+      <edge id="384" source="1825-Adams.txt" target="1885-Cleveland.txt" />
+      <edge id="385" source="1825-Adams.txt" target="1829-Jackson.txt" />
+      <edge id="386" source="1969-Nixon.txt" target="1953-Eisenhower.txt" />
+      <edge id="387" source="1969-Nixon.txt" target="1949-Truman.txt" />
+      <edge id="388" source="1969-Nixon.txt" target="1857-Buchanan.txt" />
+      <edge id="389" source="1969-Nixon.txt" target="1853-Pierce.txt" />
+      <edge id="390" source="1969-Nixon.txt" target="1981-Reagan.txt" />
+      <edge id="391" source="1969-Nixon.txt" target="1961-Kennedy.txt" />
+      <edge id="392" source="1969-Nixon.txt" target="1989-Bush.txt" />
+      <edge id="393" source="1969-Nixon.txt" target="1985-Reagan.txt" />
+      <edge id="394" source="1857-Buchanan.txt" target="1793-Washington.txt" />
+      <edge id="395" source="1857-Buchanan.txt" target="1853-Pierce.txt" />
+      <edge id="396" source="1857-Buchanan.txt" target="1897-McKinley.txt" />
+      <edge id="397" source="1857-Buchanan.txt" target="1873-Grant.txt" />
+      <edge id="398" source="1953-Eisenhower.txt" target="1897-McKinley.txt" />
+      <edge id="399" source="1953-Eisenhower.txt" target="1949-Truman.txt" />
+      <edge id="400" source="1953-Eisenhower.txt" target="1977-Carter.txt" />
+      <edge id="401" source="1953-Eisenhower.txt" target="1865-Lincoln.txt" />
+      <edge id="402" source="1953-Eisenhower.txt" target="1805-Jefferson.txt" />
+      <edge id="403" source="1953-Eisenhower.txt" target="1981-Reagan.txt" />
+      <edge id="404" source="1953-Eisenhower.txt" target="1961-Kennedy.txt" />
+      <edge id="405" source="1953-Eisenhower.txt" target="1989-Bush.txt" />
+      <edge id="406" source="1953-Eisenhower.txt" target="1813-Madison.txt" />
+      <edge id="407" source="1981-Reagan.txt" target="1997-Clinton.txt" />
+      <edge id="408" source="1981-Reagan.txt" target="1957-Eisenhower.txt" />
+      <edge id="409" source="1981-Reagan.txt" target="1853-Pierce.txt" />
+      <edge id="410" source="1981-Reagan.txt" target="1961-Kennedy.txt" />
+      <edge id="411" source="1981-Reagan.txt" target="1813-Madison.txt" />
+      <edge id="412" source="1981-Reagan.txt" target="1949-Truman.txt" />
+      <edge id="413" source="1989-Bush.txt" target="1997-Clinton.txt" />
+      <edge id="414" source="1989-Bush.txt" target="1977-Carter.txt" />
+      <edge id="415" source="1989-Bush.txt" target="1961-Kennedy.txt" />
+      <edge id="416" source="1989-Bush.txt" target="2001-Bush.txt" />
+      <edge id="417" source="1989-Bush.txt" target="1877-Hayes.txt" />
+      <edge id="418" source="1989-Bush.txt" target="1797-Adams.txt" />
+      <edge id="419" source="1833-Jackson.txt" target="1853-Pierce.txt" />
+      <edge id="420" source="1833-Jackson.txt" target="1961-Kennedy.txt" />
+      <edge id="421" source="1813-Madison.txt" target="1961-Kennedy.txt" />
+      <edge id="422" source="1873-Grant.txt" target="1853-Pierce.txt" />
+      <edge id="423" source="1949-Truman.txt" target="2001-Bush.txt" />
+      <edge id="424" source="1949-Truman.txt" target="1957-Eisenhower.txt" />
+      <edge id="425" source="1949-Truman.txt" target="1885-Cleveland.txt" />
+      <edge id="426" source="1949-Truman.txt" target="1925-Coolidge.txt" />
+      <edge id="427" source="1949-Truman.txt" target="1985-Reagan.txt" />
+      <edge id="428" source="1897-McKinley.txt" target="1997-Clinton.txt" />
+      <edge id="429" source="1897-McKinley.txt" target="1885-Cleveland.txt" />
+      <edge id="430" source="1897-McKinley.txt" target="1853-Pierce.txt" />
+      <edge id="431" source="1897-McKinley.txt" target="1925-Coolidge.txt" />
+      <edge id="432" source="1997-Clinton.txt" target="1977-Carter.txt" />
+      <edge id="433" source="1997-Clinton.txt" target="2001-Bush.txt" />
+      <edge id="434" source="1997-Clinton.txt" target="1957-Eisenhower.txt" />
+      <edge id="435" source="1997-Clinton.txt" target="1985-Reagan.txt" />
+      <edge id="436" source="2001-Bush.txt" target="1925-Coolidge.txt" />
+      <edge id="437" source="2001-Bush.txt" target="1985-Reagan.txt" />
+      <edge id="438" source="1893-Cleveland.txt" target="1925-Coolidge.txt" />
+      <edge id="439" source="1805-Jefferson.txt" target="1925-Coolidge.txt" />
+      <edge id="440" source="1877-Hayes.txt" target="1885-Cleveland.txt" />
+      <edge id="441" source="1877-Hayes.txt" target="1925-Coolidge.txt" />
+      <edge id="442" source="1853-Pierce.txt" target="1961-Kennedy.txt" />
+      <edge id="443" source="1853-Pierce.txt" target="1985-Reagan.txt" />
+      <edge id="444" source="1925-Coolidge.txt" target="1985-Reagan.txt" />
+    </edges>
+  </graph>
+</gexf>

@@ -28,4 +28,17 @@ print "making numbered corpus..."
 dictionary = corpora.Dictionary(filtered_speeches)
 corpus = [dictionary.doc2bow(text) for text in filtered_speeches]
 tfidf = models.TfidfModel(corpus)
-print tfidf
+
+max_num = 0
+for doc in corpus:
+	if len(doc) > max_num:
+		max_num = len(doc)
+
+lsi = models.LsiModel(corpus, id2word=dictionary)
+index = similarities.MatrixSimilarity(lsi[corpus])
+
+for doc in corpus:
+	vec_lsi = lsi[doc]
+	sims = index[vec_lsi]
+	sims = sorted(enumerate(sims), key=lambda item: -item[1])[0]
+	print sims, dictionary[sims[0]]
